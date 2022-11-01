@@ -10,7 +10,6 @@ import {SERVER_URL} from '../constants.js';
 // NOTE:  for OAuth security, http request must have
 //   credentials: 'include' 
 //
-
 //  required properties -  assignment
 //  
 //  NOTE: because Gradebook is invoked via <Link> in Assignment.js components
